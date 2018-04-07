@@ -3,7 +3,7 @@
 '''Text_file_name_fetcher.py - Fetches the filenames of text files that need
 importing into a results spreadsheet and copies them to the clipboard.'''
 
-# Created by Lewis Holmes - 06/04/18 - ibeef1990@gmail.com
+# Created by iBeef - 06/04/18 - ibeef1990@gmail.com
 
 import os, pyperclip
 
