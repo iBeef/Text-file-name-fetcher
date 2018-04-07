@@ -5,7 +5,8 @@ importing into a results spreadsheet and copies them to the clipboard.'''
 
 # Created by iBeef - 06/04/18 - ibeef1990@gmail.com
 
-import os, pyperclip
+import os
+import pyperclip
 
 def text_file_name_fetcher():
 
