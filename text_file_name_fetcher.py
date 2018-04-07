@@ -1,7 +1,7 @@
 #! python3
 
 '''Text_file_name_fetcher.py - Fetches the filenames of text files that need
-importing into the XRD spreadsheet and copies them to the clipboard.'''
+importing into a results spreadsheet and copies them to the clipboard.'''
 
 # Created by Lewis Holmes - 06/04/18 - ibeef1990@gmail.com
 
