@@ -1,8 +1,10 @@
 #! python3
 
-'''Text_file_name_fetcher.py - Fetches the filenames of text files that
+'''
+Text_file_name_fetcher.py - Fetches the filenames of text files that
 need importing into a results spreadsheet and copies them to the
-clipboard.'''
+clipboard.
+'''
 
 # Created by iBeef - 06/04/18 - ibeef1990@gmail.com
 
